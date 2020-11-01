@@ -1,0 +1,7 @@
+2020.11.01 09:50:33 INFO  started: Metals version 0.9.4 in workspace 'C:\Users\Diogo\Desktop\Importance-Sampling' for client vscode.
+2020.11.01 09:50:34 INFO  time: initialize in 0.43s
+2020.11.01 09:50:34 WARN  no build tool detected in workspace 'C:\Users\Diogo\Desktop\Importance-Sampling'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+Nov 01, 2020 9:55:10 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Nov 01, 2020 9:55:52 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
