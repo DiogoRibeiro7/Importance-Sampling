@@ -1,4 +1,4 @@
 importance_sampling.ipynb
-metals.log
-metals.h2.db
-metals.lock.db
+.metals/metals.log
+.metals/metals.h2.db
+.metals/metals.lock.db
