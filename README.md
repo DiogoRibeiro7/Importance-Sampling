@@ -1,1 +1,1 @@
-![Alt](images/someimage.png)
+![Alt](steps.png)
